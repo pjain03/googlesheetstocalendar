@@ -1,3 +1,5 @@
+✨ *Vibe Coded with Antigravity* ✨
+
 # Google Sheets to Google Calendar Birthday Sync
 
 A purely stateless, lock-free Google Apps Script designed to flawlessly map a list of names and dates natively from a Google Sheet directly into a dedicated Google Calendar as recurring annual all-day events. 
