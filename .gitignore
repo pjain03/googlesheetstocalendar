@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Google Apps Script ignore file (if using clasp)
+.clasp.json
